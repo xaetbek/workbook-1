@@ -10,7 +10,7 @@ public class MathApp {
 
         System.out.println("The highest salary is: $" + highestSalary);
 
-        // Q2.
+        // Q2. De
         double carPrice = 17000.0;
         double truckPrice = 32000.0;
 
@@ -18,7 +18,7 @@ public class MathApp {
 
         System.out.println("The smallest price is: $" + smallestPrice);
 
-        // Q7.
+        // Q7. The last question in the exercise
         double number = Math.random();
         System.out.println("This is a random number between 0 and 1: " + number);
 
