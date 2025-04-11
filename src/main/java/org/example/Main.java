@@ -6,8 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner read = new Scanner(System.in);
-        System.out.println("Enter de Saiyan name:");
-        String name = read.nextLine);
+        System.out.println("Enter the Saiyan name:");
+        String name = read.nextLine();
         System.out.print("Enter power level: ");
         int powerlevel = read.nextInt();
 
