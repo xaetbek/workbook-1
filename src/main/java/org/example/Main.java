@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Enter the Saiyan name:");
         String name = read.nextLine();
         System.out.print("Enter power level: ");
-        int powerlevel = read.nextInt();
+        int powerLevel = read.nextInt();
 
         Saiyan mySaiyan = new Saiyan("Remzoku", 8000, 100);
         Saiyan enemySaiyan = new Saiyan("Frieza", 10000, 200);
