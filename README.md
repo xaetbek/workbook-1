@@ -1,1 +1,7 @@
-“## This is a practice repo”
+# Combined README
+
+This is from main-repo
+
+---
+
+This is from repo-a
